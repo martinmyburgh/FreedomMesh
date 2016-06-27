@@ -1,2 +1,2 @@
-# freedommesh
-The Freedom Mesh Project
+# FreedomMesh
+Nothing here yet.
